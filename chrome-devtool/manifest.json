@@ -1,0 +1,8 @@
+{
+  "name": "Playson game editor",
+  "version": "1.0",
+  "description": "Визуальное редактирование игр.",
+  "devtools_page": "main.html",
+  "manifest_version": 2,
+  "web_accessible_resources": [ "main.html", "panel.html"]
+}
